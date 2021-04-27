@@ -7,7 +7,7 @@ namespace Exercises
     class Exercise2_3
     {
 
-        static void Main(string[] args)
+        static void notMain(string[] args)
         {
 
             SinglyLinkedList sll = new SinglyLinkedList(3);
@@ -20,7 +20,7 @@ namespace Exercises
             sll.appendToList(1);
             sll.appendToList(9);
             sll.appendToList(33);
-            sll.appendToList(33);
+            sll.appendToList(5);
 
             sll.printList();
 
@@ -28,7 +28,7 @@ namespace Exercises
 
             // Delete 8
             e3.deleteNode(sll.head.next.next.next.next);
-            
+
             sll.printList();
 
         }

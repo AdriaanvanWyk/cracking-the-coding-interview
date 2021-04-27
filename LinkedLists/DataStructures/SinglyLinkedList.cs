@@ -5,21 +5,37 @@ public class SinglyLinkedList
 {
 
     public Node head {get; set;}
+    public Node tail {get; set;}
     public SinglyLinkedList(int n)
     {
         head = new Node(n);
     }
 
+    public SinglyLinkedList()
+    {
+        head = null;
+    }
+
     public void appendToList(int n)
     {
-        Node tail = new Node(n);
-        Node currentNode = head;
-        while(currentNode.next != null)
+        if(head == null)
         {
-            currentNode = currentNode.next;
+            head = new Node(n);
+            tail = head;
+        }
+        else
+        {
+            tail = new Node(n);
+            Node currentNode = head;
+            while(currentNode.next != null)
+            {
+                currentNode = currentNode.next;
+            }
+
+            currentNode.next = tail;
         }
 
-        currentNode.next = tail;
+
     }
 
     public void deleteNode(int d)
