@@ -7,7 +7,7 @@ namespace Exercises
     class Exercise2_5
     {
 
-        static void Main(string[] args)
+        static void notMain(string[] args)
         {
 
             SinglyLinkedList L1 = new SinglyLinkedList(6);
