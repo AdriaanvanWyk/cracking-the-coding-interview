@@ -9,7 +9,7 @@ namespace Exercises
     class Exercise3_1
     {
 
-        static void Main(string[] args)
+        static void notMain(string[] args)
         {
 
             int arrayLength = 10;
