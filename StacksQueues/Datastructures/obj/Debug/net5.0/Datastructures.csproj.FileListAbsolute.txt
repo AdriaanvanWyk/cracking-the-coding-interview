@@ -1,0 +1,12 @@
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.csprojAssemblyReference.cache
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.AssemblyInfoInputs.cache
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.AssemblyInfo.cs
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.csproj.CoreCompileInputs.cache
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/bin/Debug/net5.0/Datastructures.deps.json
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/bin/Debug/net5.0/Datastructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/bin/Debug/net5.0/ref/Datastructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/bin/Debug/net5.0/Datastructures.pdb
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/ref/Datastructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/StacksQueues/Datastructures/obj/Debug/net5.0/Datastructures.pdb
