@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Text;
 
 namespace Datastructures
 {
@@ -40,10 +41,12 @@ namespace Datastructures
 
 
         private List<Node> stack;
+        public int stackSize;
         private int top = -1;
         public Stack()
         {
             stack = new List<Node>();
+            stackSize = 0;
 
         }
 
@@ -54,6 +57,7 @@ namespace Datastructures
             if(top < 0) throw new EmptyStackException("Stack is Empty, cannot remove any more elements");
             Node tempNode = stack[top];
             stack.RemoveAt(top);
+            stackSize -= 1;
             top -= 1;
 
             return tempNode.Data;
@@ -63,6 +67,7 @@ namespace Datastructures
         {
             Node newNode = new Node(t);
             stack.Add(newNode);
+            stackSize += 1;
             top += 1;
         }
 
@@ -76,7 +81,19 @@ namespace Datastructures
         {
             return top < 0 ? true : false;
         }
-        
+
+        public void printStack()
+        {
+            
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Stack: ");
+            foreach(Node item in stack)
+            {
+                sb.Append($"-> {item.Data}");
+            }
+
+            Console.WriteLine(sb.ToString());
+        }
     }
 
     public class Queue<T>

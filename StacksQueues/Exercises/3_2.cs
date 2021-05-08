@@ -7,7 +7,7 @@ namespace Exercises
     class Exercise3_2
     {
 
-        public static void Main(string[] args)
+        public static void notMain(string[] args)
         {
 
             MinStack minStack = new MinStack();
