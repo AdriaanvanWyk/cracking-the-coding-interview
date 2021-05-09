@@ -9,7 +9,7 @@ namespace Exercises
     public class Exercise3_5
     {
 
-        public static void Main(string[] args)
+        public static void notMain(string[] args)
         {
 
             Stack<int> stackToSort = new Stack<int>();
