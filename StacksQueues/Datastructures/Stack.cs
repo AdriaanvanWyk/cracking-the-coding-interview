@@ -91,6 +91,7 @@ namespace Datastructures
             {
                 sb.Append($"-> {item.Data}");
             }
+            sb.Append($" <- Top");
 
             Console.WriteLine(sb.ToString());
         }

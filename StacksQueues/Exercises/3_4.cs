@@ -8,7 +8,7 @@ namespace Exercises
     class Exercise3_4
     {
 
-        public static void Main(string[] args)
+        public static void notMain(string[] args)
         {
 
             QueueStack<char> qs = new QueueStack<char>();

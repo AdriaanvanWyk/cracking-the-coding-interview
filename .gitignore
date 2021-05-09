@@ -2,3 +2,6 @@
 *.mdb
 
 .vscode/
+.dll
+.cache
+.pdb

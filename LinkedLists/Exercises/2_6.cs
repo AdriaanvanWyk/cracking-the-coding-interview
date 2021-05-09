@@ -6,7 +6,7 @@ namespace Exercises {
 
     class Exercise2_6 {
 
-        static void Main(string[] args)
+        static void notMain(string[] args)
         {
 
             SinglyLinkedList sll = new SinglyLinkedList();

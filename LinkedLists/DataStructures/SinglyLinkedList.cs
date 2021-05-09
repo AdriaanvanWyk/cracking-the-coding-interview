@@ -1,6 +1,11 @@
 using System;
 using System.Text;
 
+
+
+/// <summary>
+/// A custom created linked list
+/// </summary>
 public class SinglyLinkedList
 {
 
