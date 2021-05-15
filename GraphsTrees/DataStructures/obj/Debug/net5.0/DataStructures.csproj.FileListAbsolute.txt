@@ -1,0 +1,12 @@
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/bin/Debug/net5.0/DataStructures.deps.json
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/bin/Debug/net5.0/DataStructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/bin/Debug/net5.0/DataStructures.pdb
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.AssemblyInfoInputs.cache
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.AssemblyInfo.cs
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll
+/home/adriaan/Projects/cracking-the-coding-interview/GraphsTrees/DataStructures/obj/Debug/net5.0/DataStructures.pdb
