@@ -7,7 +7,7 @@ namespace Exercises
     class MinHeapTest
     {
 
-        public static void Main(string[] args)
+        public static void notMain(string[] args)
         {
             MinHeap mh = new MinHeap();
 
